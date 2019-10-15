@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>sad.jpg</file>
+    <file>smile.jpg</file>
+    <file>login.jpg</file>
+    <file>white.jpg</file>
+    <file>backgroung.jpg</file>
+  </qresource>
+</RCC>
